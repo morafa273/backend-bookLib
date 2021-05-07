@@ -1,0 +1,14 @@
+[
+    {
+        "judulBuku" : "Harry Potter I",
+        "pengarang" : "J.K.Rowling",
+        "stok": 2,
+        "hargasewa" : 10000
+    },
+    {
+        "judulBuku" : "Harry Potter II",
+        "pengarang" : "J.K.Rowling",
+        "stok": 3,
+        "hargasewa" : 15000
+    }
+]

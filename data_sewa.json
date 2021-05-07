@@ -1,0 +1,8 @@
+[
+    {
+        "id_buku" : "",
+        "id_user" : "",
+        "tanggal_sewa" : "",
+        "tanggal_kembali" : ""
+    }
+]
