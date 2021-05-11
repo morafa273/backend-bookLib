@@ -3,9 +3,12 @@ import bodyParser from 'body-parser';
 import bookRoutes from './routes/books.js'
 import userRoutes from './routes/users.js'
 import rentRoutes from './routes/rents.js'
+import cors from 'cors'
 
 const app = express();
 const PORT = 5000;
+
+app.use(cors());
 
 app.use(bodyParser.json());
 
